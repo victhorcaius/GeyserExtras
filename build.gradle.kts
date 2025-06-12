@@ -28,6 +28,7 @@ repositories {
 
 dependencies {
     implementation("org.spongepowered:configurate-yaml:4.2.0-GeyserMC-SNAPSHOT")
+    implementation("com.google.code.gson:gson:2.13.1")
     shadow("org.spongepowered:configurate-yaml:4.2.0-GeyserMC-SNAPSHOT")
     implementation("com.fasterxml.jackson.core:jackson-annotations:2.17.0")
     implementation("com.fasterxml.jackson.core:jackson-core:2.17.0")
