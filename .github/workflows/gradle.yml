@@ -25,4 +25,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: GeyserExtras
-        path: extension/build/libs/GeyserExtras-Extension.jar
+        path: spigot/build/libs/GeyserExtras-Spigot.jar
